@@ -1,0 +1,11 @@
+{
+  "name": "learn-to-fly-3",
+  "version": "1.0.0",
+  "description": "This is my version of learn to fly three. Pick between three different launchers and launch with spacebar! Then use your jetpack at the opportune moment by pressing B. What score can you get?",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}te
